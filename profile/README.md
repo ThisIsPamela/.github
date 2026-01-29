@@ -2,12 +2,9 @@
 
 Pamela is the home for our product code, services, and internal tooling.
 
-## Repositories
+Get your enterprise key through our awesome webapp. Fight on.
 
-- pamela
-- website
-- admin
-- demo
+Test it at https://demo.thisispamela.com/
 
 ## Getting access
 
