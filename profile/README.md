@@ -1,8 +1,8 @@
 # Pamela
 
-Pamela is the home for our product code, services, and internal tooling.
+Pamela is the home for our product code, services, and tooling.
 
-Get your enterprise key through our awesome webapp. Fight on.
+Get your enterprise key through https://developer.thisispamela.com. 
 
 Test it at https://github.com/ThisIsPamela/demo
 
